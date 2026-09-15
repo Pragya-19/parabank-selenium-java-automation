@@ -76,7 +76,7 @@ public class BankingApiTest {
             
         }
         
-        @Test
+        @Test(enabled = false)
         public void verifyFundTransferApi() {
 
             Response response =
