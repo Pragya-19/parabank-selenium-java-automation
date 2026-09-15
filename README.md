@@ -1,3 +1,5 @@
+[![ParaBank Selenium Automation Tests](https://github.com/Pragya-19/parabank-selenium-java-automation/actions/workflows/test.yml/badge.svg)](https://github.com/Pragya-19/parabank-selenium-java-automation/actions/workflows/test.yml)
+
 # ParaBank Selenium Java Automation Framework
 
 End-to-end banking test automation framework built using Selenium WebDriver, Java, TestNG, Maven, Page Object Model (POM), and REST API testing.
